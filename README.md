@@ -16,6 +16,7 @@ There is a twist to this maze.
       - The Three Terms for Calculating Movement
       - What is Time.deltaTime?
       - What is Rigidbody2D.MovePosition()?
+      - Tweaking the "Speed" Scalar
   
 </details>
 
