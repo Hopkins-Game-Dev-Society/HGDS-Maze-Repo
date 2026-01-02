@@ -23,23 +23,23 @@ There is a twist to this maze.
 <details>
   <summary> ⚠️ SPOILERS: The Task (click to expand) </summary>
 
-    By now, you should've seen my implementation of reflecting the player across the middle Y-axis as a gameplay mechanic.
+  By now, you should've seen my implementation of reflecting the player across the middle Y-axis as a gameplay mechanic.
 
-    Your task is to design/implement your own "twist" on the player. The twist should hopefully change how the player moves through or understands the level. This is completely open book, so look up anything and also ask us if you need help!
+  Your task is to design/implement your own "twist" on the player. The twist should hopefully change how the player moves through or understands the level. This is completely open book, so look up anything and also ask us if you need help!
 
-    Da rules:
-    - Don't import any new assets. Only use the placeholders we already have (duplicating is fine, ofc)
-    - Don't worry about juicing/polishing the game. Just having your mechanic working is perfect :)
-    - You can rearrange the level/maze however you like.
-    - You have 30 minutes :o 
+  Da rules:
+  - Don't import any new assets. Only use the placeholders we already have (duplicating is fine, ofc)
+  - Don't worry about juicing/polishing the game. Just having your mechanic working is perfect :)
+  - You can rearrange the level/maze however you like.
+  - You have 30 minutes :o 
 
-    It's perfectly fine to just replicate the reflection mechanic we demonstrated! The goal isn't novelty at all costs, but just to practice turning an idea into a playable mechanic.
+  It's perfectly fine to just replicate the reflection mechanic we demonstrated! The goal isn't novelty at all costs, but just to practice turning an idea into a playable mechanic.
 
-    If you need inspiration, here's some examples you could do:
-    - Screen wrapping (exiting from one side enters from another)
-    - Teleporters/Portals
-    - Our same teleporting mechanic but with a X or Y offset
-    - Our same teleporting mechanic but with a limited number of uses
+  If you need inspiration, here's some examples you could do:
+  - Screen wrapping (exiting from one side enters from another)
+  - Teleporters/Portals
+  - Our same teleporting mechanic but with a X or Y offset
+  - Our same teleporting mechanic but with a limited number of uses
 </details>
 
 Starter project by [L1Ryx](https://github.com/l1ryx).
