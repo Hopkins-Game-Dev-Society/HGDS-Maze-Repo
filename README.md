@@ -8,6 +8,7 @@ There is a twist to this maze.
   
     1. Add necessary components to Player.
       - What are components in Unity?
+      - Existing Components: Transform and Sprite Renderer
       - Box Collider 2D
       - Rigid Body 2D
   
