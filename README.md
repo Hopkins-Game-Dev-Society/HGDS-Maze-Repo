@@ -5,7 +5,9 @@ There is a twist to this maze.
 
 <details>
   <summary> What We'll Do Together </summary>
+  
     1. Add necessary components to Player such as the Box Collider and Rigid Body 2D.
+  
     2. Create a basic movement script.
   
 </details>
