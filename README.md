@@ -6,9 +6,15 @@ There is a twist to this maze.
 <details>
   <summary> What We'll Do Together </summary>
   
-    1. Add necessary components to Player such as the Box Collider and Rigid Body 2D.
+    1. Add necessary components to Player.
+      - What are components in Unity?
+      - Box Collider 2D
+      - Rigid Body 2D
   
     2. Create a basic movement script.
+      - The Three Terms for Calculating Movement
+      - What is Time.deltaTime?
+      - What is Rigidbody2D.MovePosition()?
   
 </details>
 
