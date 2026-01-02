@@ -5,24 +5,24 @@ There is a twist to this maze.
 
 <details>
   <summary> What We'll Do Together (click to expand) </summary>
-  
-    1. Add necessary components to Player.
-      - What are components in Unity?
-      - Existing Components: Transform and Sprite Renderer
-      - Box Collider 2D
-      - Rigid Body 2D
-  
-    2. Create a basic movement script.
-      - The Three Terms for Calculating Movement
-      - What is Time.deltaTime?
-      - What is Rigidbody2D.MovePosition()?
-      - Tweaking the "Speed" Scalar
+  ---
+  1. Add necessary components to Player.
+    - What are components in Unity?
+    - Existing Components: Transform and Sprite Renderer
+    - Box Collider 2D
+    - Rigid Body 2D
+
+  2. Create a basic movement script.
+    - The Three Terms for Calculating Movement
+    - What is Time.deltaTime?
+    - What is Rigidbody2D.MovePosition()?
+    - Tweaking the "Speed" Scalar
   
 </details>
 
 <details>
   <summary> ⚠️ SPOILERS: The Task (click to expand) </summary>
-
+  ---
   By now, you should've seen my implementation of reflecting the player across the middle Y-axis as a gameplay mechanic.
 
   Your task is to design/implement your own "twist" on the player. The twist should hopefully change how the player moves through or understands the level. This is completely open book, so look up anything and also ask us if you need help!
